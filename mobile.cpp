@@ -5,6 +5,7 @@ int main()
     int multiply;
     cin>>a>>b;
     multiply=a*b;
+    cout<<"multiplication is ";
     cout<<multiply;
     return 0;
 }
